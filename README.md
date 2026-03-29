@@ -18,3 +18,4 @@ Links lead to [Blueprints UE](https://blueprintue.com), where individual functio
 - [Attacks](https://blueprintue.com/blueprint/ddc10fx-/) Different values for air, light and heavy attack.
 - [GetAttack](https://blueprintue.com/blueprint/5nalv26w/) and [Attackdirection](https://blueprintue.com/blueprint/2017fdye/) Used to determine the correct attack using enums, functions, and macros.
 - [Knockback](https://blueprintue.com/blueprint/75im4pq2/) Calculates knockback based on a given formula and in-game progression, as well as [Stun](https://blueprintue.com/blueprint/a2iic0ib/).
+- [GettingHit](https://blueprintue.com/blueprint/weas3ytl/) Handles hit reactions, applying knockback and freeze effects.
